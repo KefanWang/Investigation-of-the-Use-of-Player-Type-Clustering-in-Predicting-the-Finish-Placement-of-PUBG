@@ -1,3 +1,4 @@
 # PUBG
-Kefan Wang's final year project\\
+Kefan Wang's final year project
 PUBG Finish Placement Prediction 
+$\mathbf{W}$
